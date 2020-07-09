@@ -1,1 +1,1 @@
-Welcome to heroku
+<?php echo "Welcome to heroku"; ?>
