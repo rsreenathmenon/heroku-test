@@ -1,1 +1,6 @@
-<?php echo "Welcome to heroku test"; ?>
+<?php 
+echo "Welcome to heroku test"; 
+
+phpinfo();
+
+?>
